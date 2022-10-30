@@ -5,7 +5,7 @@ Criado como _Dynamic Web Project no Eclipse IDE
 
 Servidor Apache Tomcat 9
 
-1. No campo abaixo da aba Servers, clique com o botão direito do mouse para adicionar um servidor local:
+1. No campo abaixo da aba Servers, clique com o botão direito do mouse para adicionar o Tomcat 9:
 ![image](https://user-images.githubusercontent.com/54105984/198866949-72a35e5c-4f08-4e7c-82a5-d8b304864ce3.png)
 ![image](https://user-images.githubusercontent.com/54105984/198866760-30daf54a-2a55-4299-a58c-3a56c89798ee.png)
 
