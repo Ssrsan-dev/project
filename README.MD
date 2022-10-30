@@ -1,5 +1,5 @@
 ## Criação do banco do projeto
---
+---
 
 ``` sql
 CREATE DATABASE `servico_agendamento`;
