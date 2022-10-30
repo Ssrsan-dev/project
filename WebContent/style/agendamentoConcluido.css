@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.container {
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+}
+
+.out-shadow {
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.vertical-center {
+	justify-content: center;
+	align-items: center;
+}
+
+.fa-circle-xmark {
+	color: #e60000;
+}
+
+.fa-circle-check {
+	color: #007426;
+}
